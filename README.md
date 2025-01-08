@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy estudiando **Python & Django**
 
-- 💬 Me puedes preguntar acerca de **Html,Css,Javascript,React,Mongo,MySQL y Node**
+- 💬 Me puedes preguntar acerca de **Html,Css,Javascript,React,Mongo,MySQL, Next.js y Node**
 
 - 📫 Contáctame **dieg.contrerasm@gmail.com**
 
